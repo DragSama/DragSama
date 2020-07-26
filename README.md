@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![DragSama's github stats](https://github-readme-stats.vercel.app/api?username=dragsama&show_icons=true&theme=tokyonight)
+
+
+- 🔭 I’m currently working on [AniFluid](https://t.me/AniFluidBot)
+- 🌱 I’m currently learning - Python, Rust, Go
+- 📫 Reach me on [Telegram](https://t.me/DragSama)
+
 <!--
 **DragSama/DragSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
