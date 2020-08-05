@@ -22,7 +22,7 @@ jobs:
         python -m pip install requests
     - name: Something nice
       run: |-
-        python update_fav.py
+        python /update_fav.py
         cat README.md
     - name: Commit
       run: |-
