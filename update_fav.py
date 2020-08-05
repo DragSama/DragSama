@@ -30,7 +30,7 @@ def update_readme():
   with open('readme.md', 'r') as f:
     text = regex.sub(new, f.read())
   with open('readme.md', 'w') as w:
-    w.write(f)
+    w.write(text)
     
     
 update_readme()
