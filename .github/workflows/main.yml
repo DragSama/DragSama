@@ -23,8 +23,6 @@ jobs:
     - name: Something nice
       run: |-
         ls
-        cd ..
-        ls
         python update_fav.py
         cat README.md
     - name: Commit
