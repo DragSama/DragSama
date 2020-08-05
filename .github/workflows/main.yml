@@ -22,6 +22,7 @@ jobs:
         python -m pip install requests
     - name: Something nice
       run: |-
+        ls
         cd ..
         ls
         python update_fav.py
