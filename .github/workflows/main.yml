@@ -20,6 +20,7 @@ jobs:
     - name: Something nice
       run:
         python update_fav.py
+        cat readme.md
     - name: Commit
       run:
         git diff
