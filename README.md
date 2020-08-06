@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Some of my favourite anime -
+<details>
+<summary> Some of my favorite anime :gem: </summary>
+
 <!-- anime_list_start-->
 * The Rising of the Shield Hero - (Tate no Yuusha no Nariagari)
 * Re:ZERO -Starting Life in Another World- - (Re:Zero kara Hajimeru Isekai Seikatsu)
@@ -33,3 +35,5 @@ Some of my favourite anime -
 * Re:ZERO -Starting Life in Another World- Season 2 - (Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season)
 * Kaguya-sama: Love is War? - (Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen)
 <!-- anime_list_end-->
+
+</details>
