@@ -27,9 +27,9 @@ def update_readme():
   for x in req:
     new += f"* {x['title']['english']} - ({x['title']['romaji']})\n"
   new += "<!-- anime_list_end-->"
-  with open('readme.md', 'r') as f:
+  with open('README.md', 'r') as f:
     text = regex.sub(new, f.read())
-  with open('readme.md', 'w') as w:
+  with open('README.md', 'w') as w:
     w.write(text)
     
     
