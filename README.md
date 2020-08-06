@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 * KONOSUBA -God's blessing on this wonderful world! 2 - (Kono Subarashii Sekai ni Shukufuku wo! 2)
 * Re:ZERO -Starting Life in Another World- Season 2 - (Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season)
 * Kaguya-sama: Love is War? - (Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen)
+* Code Geass: Lelouch of the Re;surrection - (Code Geass: Fukkatsu no Lelouch)
 <!-- anime_list_end-->
 
 </details>
