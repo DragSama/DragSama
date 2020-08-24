@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 * [No Game, No Life](https://anilist.co/anime/19815) - (No Game No Life)
 * [Overlord](https://anilist.co/anime/20832) - (Overlord)
 * [How Not to Summon a Demon Lord](https://anilist.co/anime/101004) - (Isekai Maou to Shoukan Shoujo no Dorei Majutsu)
-* [Konosuba: God`s Blessing on This Wonderful World! 2](https://anilist.co/anime/21699) - (Kono Subarashii Sekai ni Shukufuku wo! 2)
+* [KONOSUBA -God's blessing on this wonderful world! 2](https://anilist.co/anime/21699) - (Kono Subarashii Sekai ni Shukufuku wo! 2)
 * [Re:ZERO -Starting Life in Another World- Season 2](https://anilist.co/anime/108632) - (Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season)
 * [Kaguya-sama: Love is War?](https://anilist.co/anime/112641) - (Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen)
 * [Code Geass: Lelouch of the Re;surrection](https://anilist.co/anime/97880) - (Code Geass: Fukkatsu no Lelouch)
