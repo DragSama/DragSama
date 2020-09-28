@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 * [Code Geass: Lelouch of the Re;surrection](https://anilist.co/anime/97880) - (Code Geass: Fukkatsu no Lelouch)
 * [Kaguya-sama: Love is War](https://anilist.co/anime/101921) - (Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen)
 * [Gate](https://anilist.co/anime/20994) - (Gate: Jieitai Kanochi nite, Kaku Tatakaeri)
+* [My Hero Academia Season 4](https://anilist.co/anime/104276) - (Boku no Hero Academia 4)
 <!-- anime_list_end-->
 
 </details>
