@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 * [My Hero Academia Season 4](https://anilist.co/anime/104276) - (Boku no Hero Academia 4)
 * [The Rising of the Shield Hero](https://anilist.co/anime/99263) - (Tate no Yuusha no Nariagari)
 * [Dragon Ball Super](https://anilist.co/anime/21175) - (Dragon Ball Super)
+* [Talentless Nana](https://anilist.co/anime/117343) - (Munou na Nana)
 <!-- anime_list_end-->
 
 </details>
