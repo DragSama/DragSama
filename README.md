@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 * [The Rising of the Shield Hero](https://anilist.co/anime/99263) - (Tate no Yuusha no Nariagari)
 * [Dragon Ball Super](https://anilist.co/anime/21175) - (Dragon Ball Super)
 * [Talentless Nana](https://anilist.co/anime/117343) - (Munou na Nana)
+* [None](https://anilist.co/anime/108725) - (Yakusoku no Neverland 2nd Season)
 <!-- anime_list_end-->
 
 </details>
