@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 * [Attack on Titan](https://anilist.co/anime/16498) - (Shingeki no Kyojin)
 * [Attack on Titan Season 2](https://anilist.co/anime/20958) - (Shingeki no Kyojin 2)
 * [Attack on Titan Season 3](https://anilist.co/anime/99147) - (Shingeki no Kyojin 3)
+* [Attack on Titan Season 3 Part 2](https://anilist.co/anime/104578) - (Shingeki no Kyojin 3 Part 2)
 <!-- anime_list_end-->
 
 </details>
