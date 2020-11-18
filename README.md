@@ -2,7 +2,7 @@
 
 
 
-![DragSama's github stats](https://github-readme-stats.vercel.app/api?username=dragsama&show_icons=true&theme=radical)
+![DragSama's github stats](https://github-readme-stats.vercel.app/api?username=dragsama&show_icons=true&theme=radical&hide_title=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragsama&theme=radical&card_width=450)
 
@@ -12,23 +12,10 @@
 - 🌱 I’m currently learning - Python, Rust
 - 📫 Reach me on [Telegram](https://t.me/DragSama)
 
-<!--
-**DragSama/DragSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "right">
 
 <details>
-<summary> Some of my favorite anime (My taste is good!) :gem: </summary>
+<summary> Some of my favorite anime :gem: </summary>
 
 <!-- anime_list_start-->
 * [Kaguya-sama: Love is War](https://anilist.co/anime/101921) - (Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen)
@@ -58,3 +45,4 @@ Here are some ideas to get you started:
 <!-- anime_list_end-->
 
 </details>
+
