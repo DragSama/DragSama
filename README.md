@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-![DragSama's github stats](https://github-readme-stats.vercel.app/api?username=dragsama&show_icons=true&theme=tokyonight)
 
 
-- 🔭 I’m currently working on [AniFluid](https://t.me/AniFluidBot) & [Sibyl System](https://github.com/AnimeKaizoku/SibylSystem)
-- 🌱 I’m currently learning - Python, Rust, Go
+![DragSama's github stats](https://github-readme-stats.vercel.app/api?username=dragsama&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragsama&theme=radical&card_width=450)
+
+
+
+- 🔭 I’m currently working on [AniFluid](https://t.me/AniFluidBot), [Sibyl System](https://github.com/AnimeKaizoku/SibylSystem), [Tamokuteki](https://github.com/DragSama/Tamokuteki)
+- 🌱 I’m currently learning - Python, Rust
 - 📫 Reach me on [Telegram](https://t.me/DragSama)
 
 <!--
@@ -23,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 <details>
-<summary> Some of my favorite anime :gem: </summary>
+<summary> Some of my favorite anime (My taste is good!) :gem: </summary>
 
 <!-- anime_list_start-->
 * [Kaguya-sama: Love is War](https://anilist.co/anime/101921) - (Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen)
