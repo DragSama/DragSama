@@ -32,7 +32,7 @@
 * [The Rising of the Shield Hero](https://anilist.co/anime/99263) - (Tate no Yuusha no Nariagari)
 * [Dragon Ball Super](https://anilist.co/anime/21175) - (Dragon Ball Super)
 * [Talentless Nana](https://anilist.co/anime/117343) - (Munou na Nana)
-* [None](https://anilist.co/anime/108725) - (Yakusoku no Neverland 2nd Season)
+* [The Promised Neverland Season 2](https://anilist.co/anime/108725) - (Yakusoku no Neverland 2nd Season)
 * [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922) - (Kimetsu no Yaiba)
 * [Hunter x Hunter](https://anilist.co/anime/136) - (Hunter x Hunter)
 * [A Silent Voice](https://anilist.co/anime/20954) - (Koe no Katachi)
