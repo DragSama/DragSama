@@ -42,6 +42,7 @@
 * [Attack on Titan Season 2](https://anilist.co/anime/20958) - (Shingeki no Kyojin 2)
 * [Attack on Titan Season 3](https://anilist.co/anime/99147) - (Shingeki no Kyojin 3)
 * [Attack on Titan Season 3 Part 2](https://anilist.co/anime/104578) - (Shingeki no Kyojin 3 Part 2)
+* [Dragon Ball](https://anilist.co/anime/223) - (Dragon Ball)
 <!-- anime_list_end-->
 
 </details>
