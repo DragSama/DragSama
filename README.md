@@ -33,7 +33,6 @@
 * [Dragon Ball Super](https://anilist.co/anime/21175) - (Dragon Ball Super)
 * [Talentless Nana](https://anilist.co/anime/117343) - (Munou na Nana)
 * [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922) - (Kimetsu no Yaiba)
-* [Hunter x Hunter](https://anilist.co/anime/136) - (Hunter x Hunter)
 * [A Silent Voice](https://anilist.co/anime/20954) - (Koe no Katachi)
 * [Your Name.](https://anilist.co/anime/21519) - (Kimi no Na wa.)
 * [Made in Abyss](https://anilist.co/anime/97986) - (Made in Abyss)
@@ -43,6 +42,7 @@
 * [Attack on Titan Season 3 Part 2](https://anilist.co/anime/104578) - (Shingeki no Kyojin 3 Part 2)
 * [Dragon Ball](https://anilist.co/anime/223) - (Dragon Ball)
 * [The Promised Neverland](https://anilist.co/anime/101759) - (Yakusoku no Neverland)
+* [Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train](https://anilist.co/anime/112151) - (Kimetsu no Yaiba: Mugen Ressha-hen)
 <!-- anime_list_end-->
 
 </details>
