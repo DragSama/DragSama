@@ -36,9 +36,9 @@
 * [Attack on Titan Season 2](https://anilist.co/anime/20958) - (Shingeki no Kyojin 2)
 * [Attack on Titan Season 3](https://anilist.co/anime/99147) - (Shingeki no Kyojin 3)
 * [Attack on Titan Season 3 Part 2](https://anilist.co/anime/104578) - (Shingeki no Kyojin 3 Part 2)
-* [Dragon Ball](https://anilist.co/anime/223) - (Dragon Ball)
 * [The Promised Neverland](https://anilist.co/anime/101759) - (Yakusoku no Neverland)
 * [Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train](https://anilist.co/anime/112151) - (Kimetsu no Yaiba: Mugen Ressha-hen)
+* [Wotakoi: Love is Hard for Otaku](https://anilist.co/anime/99578) - (Wotaku ni Koi wa Muzukashii)
 <!-- anime_list_end-->
 
 </details>
