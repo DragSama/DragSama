@@ -19,7 +19,7 @@
 * [Re:ZERO -Starting Life in Another World-](https://anilist.co/anime/21355) - (Re:Zero kara Hajimeru Isekai Seikatsu)
 * [Overlord](https://anilist.co/anime/20832) - (Overlord)
 * [No Game, No Life](https://anilist.co/anime/19815) - (No Game No Life)
-* [How Not to Summon a Demon Lord](https://anilist.co/anime/101004) - (Isekai Maou to Shoukan Shoujo no Dorei Majutsu)
+* [How NOT to Summon a Demon Lord](https://anilist.co/anime/101004) - (Isekai Maou to Shoukan Shoujo no Dorei Majutsu)
 * [Re:ZERO -Starting Life in Another World- Season 2](https://anilist.co/anime/108632) - (Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season)
 * [Kaguya-sama: Love is War?](https://anilist.co/anime/112641) - (Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen)
 * [Code Geass: Lelouch of the Re;surrection](https://anilist.co/anime/97880) - (Code Geass: Fukkatsu no Lelouch)
